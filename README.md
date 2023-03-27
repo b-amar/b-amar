@@ -1,2 +1,1 @@
-![Alt text](./logo.svg)
-<img src="./logo.svg">
+<center><img width="100%" src="./logo.svg"></center>
